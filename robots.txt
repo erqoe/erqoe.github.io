@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://erqoe.github.io/bKO/sitemap.bKO.gz
